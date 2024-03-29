@@ -1,48 +1,65 @@
 .mainCont{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    /*width: 100%;*/
-    /*height: 90%;*/
-    margin-top: 15px;
     background-color: #F9FAFB;
 }
-
+.testify{
+    margin-left: 25px;
+}
 .secondCont{
-    display: flex;
-    flex-direction: column;
-    /*justify-content: center;*/
+    width: 1118px;
+    height: 515px;
+    margin-top: 70px;
+    margin-left: 66px;
+        display: flex;
+      flex-direction: row;
+
+}
+.items{
+    margin-top: 100px;
+    margin-left: 100px;
+
+
+}
+.slidingImage1{
+    width: 110%;
+    height: 60%;
+
+}
+.slidingImage2{
+    width: 80%;
+    height: 60%;
+
+
+}
+.slidingImage3{
     width: 100%;
-    height: 100%;
-    margin-top: 20px;
-    margin-left: 161px;
-    border: 2px solid red;
-
-
-
+    height: 60%;
 }
-
 .slidingImage{
-    width: 25%;
-    height: 8%;
-    margin-left: 75%;
-}
+    display: flex;
+    margin-left: 100px;
 
+}
+.slidingImage2Cont{
+    position: relative;
+    right: 170px ;
+
+}
+.slidingImage3Cont{
+    position: relative;
+    right: 360px;
+}
 .circle1{
-    width: 13px;
+    width: 1.3%;
+}
+.circles{
+    position: relative;
+    bottom: 200px;
+    margin-left: 450px;
+
 
 }
-/*.slidingImage{*/
-/*    width: 50px;*/
-/*}*/
-/*.circle1{*/
-/*    width: 10px;*/
-/*    margin-top: 80px;*/
-/*}*/
 .experience{
-    /*font-size: 8px;*/
-    /*display: flex;*/
-    /*flex-direction: column;*/
-    width: 30px;
-    height: 15px;
+    font-size: 20px;
+    opacity: 0.6;
+
 }

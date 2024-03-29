@@ -1,14 +1,14 @@
 import Navbar from "../reuseable/Navbar"
 import {Outlet} from "react-router-dom";
-// import Footer from "../reuseable/Footer";
+import Footer from "../reuseable/Footer";
 
 
-const Layout =()=>{
+const Layout = ()=>{
     return(
            <>
                <Navbar/>
                <Outlet/>
-               {/*<Footer/>*/}
+               <Footer/>
              </>
     )
 }

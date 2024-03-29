@@ -1,20 +1,13 @@
 .mainCont{
-    display: flex;
-    /*flex-direction: row;*/
-    width:  98%;
-    height: 100%;
     margin-top: 30px;
     padding: 10px 15px 20px 18px;
-    /*justify-content: center;*/
     background-color: #00af52;
     color: #ffffff;
-
 }
 
 .feature{
-    margin-top: 16px;
-    margin-left: 15px;
     font-size: 24px;
+    text-align: center;
 
 }
 .secondCont{
@@ -25,9 +18,18 @@
     gap: 20px;
     border-radius: 20px;
     border: none;
-    width: 50%;
+    width: 64%;
     height: 15%;
+    margin-left: 300px;
 
-
-
+}
+.started{
+    margin-left: 25px;
+    display: flex;
+    gap: 10px;
+}
+.arrowImg{
+    width: 10px;
+    height: 10px;
+    margin-top: 15px;
 }

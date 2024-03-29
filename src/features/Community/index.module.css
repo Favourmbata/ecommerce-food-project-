@@ -1,0 +1,79 @@
+.mainCont{
+
+
+}
+.secondCont{
+    display: flex;
+    flex-direction: row;
+    gap: 84px;
+}
+.join{
+    bottom: 280px;
+    color: white;
+    position: relative;
+    font-size: 30px;
+    align-content: center;
+    margin-left: 60px;
+}
+
+
+.icon{
+    width: 3%;
+    height: 2%;
+    margin-left: 25px;
+
+}
+
+.secondIcons{
+    width: 400%;
+    /*height: 10px;*/
+    /*margin-right: 40px;*/
+    position: relative;
+    bottom: 250px;
+}
+.rect1{
+    width: 35%;
+    height: 100%;
+}
+.rect5{
+    width: 35%;
+    height: 100%;
+}
+.rect{
+    width: 35%;
+    height: 100%;
+}
+.rect2{
+    width: 33.5%;
+    height: 67%;
+    /*position: relative;*/
+    /*bottom: 289px;*/
+}
+.rect3{
+    width: 35%;
+    height: 67%;
+    /*position: relative;*/
+    /*bottom: 289px;*/
+}
+.rect4{
+    width: 31%;
+    height: 67%;
+}
+.foodImg{
+    width: 150%;
+    height: 81.5%;
+    margin-top: 1px;
+    box-shadow: #00000099;
+
+
+}
+.foodIcon{
+    display: flex;
+    flex-direction: row;
+
+}
+.thirdIcons{
+    height:290px;
+    display: flex;
+    flex-direction: row;
+}
