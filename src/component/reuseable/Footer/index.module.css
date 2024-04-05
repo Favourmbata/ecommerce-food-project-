@@ -1,0 +1,100 @@
+.mainCont{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-image: url("../../../asserts/footer/icon/Rectangle 49.png");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /*position: relative;*/
+
+    background-repeat: no-repeat;
+    width: 1450px;
+    height: 450px;
+    gap: 10px;
+
+
+}
+
+.secondCont{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.info{
+   right: 20px;
+}
+.currency{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    margin-left: 200px;
+   margin-bottom:  60px;
+
+}
+.legal{
+    margin-left: 200px;
+}
+.topCategory{
+    margin-left: 200px;
+}
+.currencyBtn{
+    width: 150px;
+    height: 30px;
+    gap: 7px;
+    border-radius: 6px;
+    border: none;
+    background: #F97316;
+    color: #F9FAFB;
+}
+.chev{
+    background: red;
+    position: absolute;
+    margin-right: 20px;
+    width: 10px;
+    height: 20px;
+}
+.languageBtn{
+    width: 170px;
+    height: 30px;
+    gap: 7px;
+    border-radius: 6px;
+    border: none;
+    background: #F97316;
+    color: #F9FAFB;
+}
+
+.logo{
+    width: 30px;
+    /*margin-bottom: 25px;*/
+    gap: 10px;
+}
+.logo1{
+    width: 30px;
+    gap: 10px;
+}
+
+.logo2{
+    width: 30px;
+    gap: 30px;
+}
+
+.logo3{
+    width: 30px;
+    gap: 30px;
+}
+.logo4{
+    width: 30px;
+    gap: 30px;
+}
+.logo5{
+    width: 30px;
+    gap: 10px;
+}
+.socials{
+    margin-left: 80%;
+    bottom: 15px;
+   position: relative;
+
+}
